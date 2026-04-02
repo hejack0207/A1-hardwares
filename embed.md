@@ -67,7 +67,7 @@
 * [xtensa-overlays](https://github.com/espressif/xtensa-overlays)
 
 # arduino
-# [arduino-cli](https://github.com/arduino/arduino-cli)
+* [arduino-cli](https://github.com/arduino/arduino-cli)
 
 # tools
 * [buildroot](https://github.com/buildroot/buildroot)
